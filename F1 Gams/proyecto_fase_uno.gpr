@@ -1,0 +1,26 @@
+[PROJECT]
+
+[RP:UNTITLED_1]
+1=
+
+[SOLVERS]
+LP=CBC
+MIP=CBC
+RMIP=CBC
+
+[RP:F1_LIMITE_PERSONAL]
+1=
+
+[MRUFILES]
+1=C:\Users\Juampi\Documents\GitHub\RA_FASE1\F1 Gams\Untitled_1.gms
+
+[OPENWINDOW_1]
+FILE0=C:\Users\Juampi\Documents\GitHub\RA_FASE1\F1 Gams\F1_limite_personal.gms
+FILE1=C:\Users\Juampi\Documents\GitHub\RA_FASE1\F1 Gams\F1_limite_personal.lst
+FILE2=C:\Users\Juampi\Documents\GitHub\RA_FASE1\F1 Gams\Untitled_1.lst
+FILE3=C:\Users\Juampi\Documents\GitHub\RA_FASE1\F1 Gams\F1_limite_personal.lst
+MAXIM=0
+TOP=0
+LEFT=0
+HEIGHT=624
+WIDTH=1175
